@@ -24,4 +24,4 @@ U **nemovitosti** bude znám, majitel,  **typ** (byt, dům, pozemek) a podtyp (l
 
 ## Schéma
 
-<img align="center" width="500px" src="relational_schema.png" /><br>
+<img align="center" width="1000px" src="relational_schema.png" /><br>
